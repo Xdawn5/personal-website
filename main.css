@@ -1,0 +1,46 @@
+body {
+	font-family: Chiller;
+	font-size: 25px;
+    background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/12111918_1553158784970265_7865334530164066430_n.jpg?oh=c92a418f568d6a1f442d9f0e7625e661&oe=5A89BB02")
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+
+
+ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #7431A3;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+} 
+
+li a:hover {
+	background-color: #7B0642;
+}
+
+p {
+    font-family: "Modern No. 20", Times, serif;
+    font-size: 20px;
+	color: #CB7BB8;
+    border: 5px solid #B54755;
+	background-color: #9D2C48;
+	text-align: center;
+}
+img {
+	display: center;
+}
